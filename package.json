@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/joseph-pelayo/api-mongodb-movies/issues"
   },
-  "homepage": "https://github.com/joseph-pelayo/api-mongodb-movies#readme"
+  "homepage": "https://github.com/joseph-pelayo/api-mongodb-movies#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
