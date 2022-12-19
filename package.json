@@ -2,16 +2,20 @@
   "name": "api-mongodb-movies",
   "version": "1.0.0",
   "description": "Implementation of an API REST with Nodejs, Express and MongoDb",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joseph-pelayo/api-mongodb-movies.git"
+    "url": "https://github.com/joseph-pelayo/api-mongodb-movies.git"
   },
   "keywords": [
-    "nodejs"
+    "nodejs",
+    "express",
+    "mongodb",
+    "api",
+    "rest"
   ],
   "author": "Joseph PELAYO",
   "license": "ISC",
